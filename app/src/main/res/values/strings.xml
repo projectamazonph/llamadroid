@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LlamaDroid</string>
+    <string name="chat_tab">Chat</string>
+    <string name="library_tab">Library</string>
+    <string name="hub_tab">Hub</string>
+    <string name="settings_tab">Settings</string>
+    <string name="server_tab">Server</string>
+</resources>
